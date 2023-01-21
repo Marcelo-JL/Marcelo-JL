@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcelo-JL
-- 👀 I’m interested in ...
+- 👀 I’m interested in robotics and remote operated systems
 - 🌱 I’m currently learning javascript & arduino
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on basics robotics projects
 - 📫 How to reach me ...
 
 <!---
